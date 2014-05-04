@@ -1,0 +1,21 @@
+Cmd + T : List of most recent files and quick file search
+
+Ctrl + Shift + D : Duplicates you current line/selection
+
+Ctrl + Shift + K : Removes the entire line the cursor is on
+
+Ctrl + Cmd + R : Show the file you are working on in the drawer
+
+Alt + Cmd + Down : Opens the view of the action your cursor is currently in
+
+Ctrl + L : Inserts " => " (in an .rb file)
+
+Cmd + ] or Cmd + [ : Indent left or right
+
+Alt + Cmd + ] : Align assignments within a block
+
+Cmd + / : Comments out the line/selection of code using the appropriate syntax (most of the time)
+
+Cmd + Del : Deletes everything after the cursor
+
+Cmd + Backspace : Deletes everything before the cursor
